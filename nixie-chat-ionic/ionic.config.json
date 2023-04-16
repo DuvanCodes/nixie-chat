@@ -1,0 +1,7 @@
+{
+  "name": "nixie-chat-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
